@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BHG.Platform.DemoServer</name>
+    </assembly>
+    <members>
+        <member name="M:BHG.Platform.DemoServer.Controllers.LiuPengDistrictController.GetLiuPengDistrictById(System.Int32)">
+            <summary>
+            根据DistrictId获取District信息
+            </summary>
+            <param name="id">请输入DistrictId，例：100110001</param>
+            <returns></returns>
+        </member>
+        <member name="M:BHG.Platform.DemoServer.Controllers.LiuPengDistrictController.GetDistrictWithLocaitonsById(System.Int32)">
+            <summary>
+            根据DistrictId获取District及其包含的location信息
+            </summary>
+            <param name="id">请输入DistrictId，例：100110001</param>
+            <returns></returns>
+        </member>
+        <member name="M:BHG.Platform.DemoServer.Controllers.LiuPengLocationController.GetLiuPengLocationById(System.Int32)">
+            <summary>
+            根据ID获取Locations
+            </summary>
+            <param name="id">请输入LiuPengLocation Id，例：100001</param>
+            <returns></returns>
+        </member>
+        <member name="M:BHG.Platform.DemoServer.Controllers.LiuPengLocationController.ListAllStores">
+            <summary>
+            获取Locaitons全表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BHG.Platform.DemoServer.Controllers.LiuPengLocationController.ListAllLocationsByRegionId(System.Int32)">
+            <summary>
+            根据regionId获取Locations信息
+            </summary>
+            <param name="regionId">请输入regionId，例：100110</param>
+            <returns></returns>
+        </member>
+        <member name="M:BHG.Platform.DemoServer.Controllers.ZoneController.GetZoneById(System.String)">
+            <summary>
+            根据ID获取Zone
+            </summary>
+            <param name="id">请输入Zone Id，例：BJ</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

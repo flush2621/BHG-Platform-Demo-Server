@@ -1,0 +1,220 @@
+2019-08-29 16:27:07.0254 Info Message Template Auto Format enabled
+2019-08-29 16:27:07.0389 Info Loading assembly: NLog.Web.AspNetCore
+2019-08-29 16:27:07.3425 Info Adding target FileTarget(Name=allfile)
+2019-08-29 16:27:07.3425 Info Adding target FileTarget(Name=microsoft)
+2019-08-29 16:27:07.4019 Info Found 48 configuration items
+2019-08-29 16:29:32.5187 Info Message Template Auto Format enabled
+2019-08-29 16:29:32.5290 Info Loading assembly: NLog.Web.AspNetCore
+2019-08-29 16:29:32.6393 Info Adding target FileTarget(Name=allfile)
+2019-08-29 16:29:32.6393 Info Adding target FileTarget(Name=microsoft)
+2019-08-29 16:29:32.7046 Info Found 48 configuration items
+2019-08-29 16:30:10.8904 Info Message Template Auto Format enabled
+2019-08-29 16:30:10.9077 Info Loading assembly: NLog.Web.AspNetCore
+2019-08-29 16:30:11.0246 Info Adding target FileTarget(Name=allfile)
+2019-08-29 16:30:11.0246 Info Adding target FileTarget(Name=microsoft)
+2019-08-29 16:30:11.0878 Info Found 48 configuration items
+2019-08-29 16:31:35.8700 Info Message Template Auto Format enabled
+2019-08-29 16:31:35.8700 Info Loading assembly: NLog.Web.AspNetCore
+2019-08-29 16:31:35.9705 Info Adding target FileTarget(Name=allfile)
+2019-08-29 16:31:35.9705 Info Adding target FileTarget(Name=microsoft)
+2019-08-29 16:31:36.0183 Info Found 48 configuration items
+2019-08-30 08:58:20.0304 Info Message Template Auto Format enabled
+2019-08-30 08:58:20.0469 Info Loading assembly: NLog.Web.AspNetCore
+2019-08-30 08:58:20.2355 Info Adding target FileTarget(Name=allfile)
+2019-08-30 08:58:20.2355 Info Adding target FileTarget(Name=microsoft)
+2019-08-30 08:58:20.3005 Info Found 48 configuration items
+2019-09-25 15:42:10.8908 Info Message Template Auto Format enabled
+2019-09-25 15:42:10.8908 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-25 15:42:11.0795 Info Adding target FileTarget(Name=allfile)
+2019-09-25 15:42:11.0795 Info Adding target FileTarget(Name=microsoft)
+2019-09-25 15:42:11.1384 Info Found 48 configuration items
+2019-09-25 16:03:02.5711 Info Message Template Auto Format enabled
+2019-09-25 16:03:02.5786 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-25 16:03:02.7682 Info Adding target FileTarget(Name=allfile)
+2019-09-25 16:03:02.7682 Info Adding target FileTarget(Name=microsoft)
+2019-09-25 16:03:02.8232 Info Found 48 configuration items
+2019-09-25 16:03:50.4070 Info Message Template Auto Format enabled
+2019-09-25 16:03:50.4070 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-25 16:03:50.6014 Info Adding target FileTarget(Name=allfile)
+2019-09-25 16:03:50.6014 Info Adding target FileTarget(Name=microsoft)
+2019-09-25 16:03:50.6526 Info Found 48 configuration items
+2019-09-25 16:04:43.5550 Info Message Template Auto Format enabled
+2019-09-25 16:04:43.5628 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-25 16:04:43.7094 Info Adding target FileTarget(Name=allfile)
+2019-09-25 16:04:43.7094 Info Adding target FileTarget(Name=microsoft)
+2019-09-25 16:04:43.7593 Info Found 48 configuration items
+2019-09-25 17:10:00.9336 Info Message Template Auto Format enabled
+2019-09-25 17:10:00.9584 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-25 17:10:01.1438 Info Adding target FileTarget(Name=allfile)
+2019-09-25 17:10:01.1438 Info Adding target FileTarget(Name=microsoft)
+2019-09-25 17:10:01.2157 Info Found 48 configuration items
+2019-09-25 17:16:23.0491 Info Message Template Auto Format enabled
+2019-09-25 17:16:23.0491 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-25 17:16:23.1877 Info Adding target FileTarget(Name=allfile)
+2019-09-25 17:16:23.1877 Info Adding target FileTarget(Name=microsoft)
+2019-09-25 17:16:23.2433 Info Found 48 configuration items
+2019-09-25 17:17:33.0773 Info Message Template Auto Format enabled
+2019-09-25 17:17:33.0773 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-25 17:17:33.1862 Info Adding target FileTarget(Name=allfile)
+2019-09-25 17:17:33.1862 Info Adding target FileTarget(Name=microsoft)
+2019-09-25 17:17:33.2309 Info Found 48 configuration items
+2019-09-25 17:19:15.6179 Info Message Template Auto Format enabled
+2019-09-25 17:19:15.6412 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-25 17:19:15.7570 Info Adding target FileTarget(Name=allfile)
+2019-09-25 17:19:15.7570 Info Adding target FileTarget(Name=microsoft)
+2019-09-25 17:19:15.8090 Info Found 48 configuration items
+2019-09-25 17:20:23.8472 Info Message Template Auto Format enabled
+2019-09-25 17:20:23.8472 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-25 17:20:23.9451 Info Adding target FileTarget(Name=allfile)
+2019-09-25 17:20:23.9451 Info Adding target FileTarget(Name=microsoft)
+2019-09-25 17:20:23.9917 Info Found 48 configuration items
+2019-09-26 13:29:12.7702 Info Message Template Auto Format enabled
+2019-09-26 13:29:12.7928 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 13:29:12.9298 Info Adding target FileTarget(Name=allfile)
+2019-09-26 13:29:12.9298 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 13:29:13.0148 Info Found 48 configuration items
+2019-09-26 13:35:07.5164 Info Message Template Auto Format enabled
+2019-09-26 13:35:07.5164 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 13:35:07.6136 Info Adding target FileTarget(Name=allfile)
+2019-09-26 13:35:07.6136 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 13:35:07.6610 Info Found 48 configuration items
+2019-09-26 14:42:38.4931 Info Message Template Auto Format enabled
+2019-09-26 14:42:38.4931 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 14:42:38.7447 Info Adding target FileTarget(Name=allfile)
+2019-09-26 14:42:38.7447 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 14:42:38.8196 Info Found 48 configuration items
+2019-09-26 14:44:48.8461 Info Message Template Auto Format enabled
+2019-09-26 14:44:48.8550 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 14:44:49.1176 Info Adding target FileTarget(Name=allfile)
+2019-09-26 14:44:49.1176 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 14:44:49.1914 Info Found 48 configuration items
+2019-09-26 14:48:29.1889 Info Message Template Auto Format enabled
+2019-09-26 14:48:29.1961 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 14:48:29.3262 Info Adding target FileTarget(Name=allfile)
+2019-09-26 14:48:29.3262 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 14:48:29.3905 Info Found 48 configuration items
+2019-09-26 14:48:46.2406 Info Message Template Auto Format enabled
+2019-09-26 14:48:46.2488 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 14:48:46.5660 Info Adding target FileTarget(Name=allfile)
+2019-09-26 14:48:46.5721 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 14:48:46.6314 Info Found 48 configuration items
+2019-09-26 14:50:52.8541 Info Message Template Auto Format enabled
+2019-09-26 14:50:52.8676 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 14:50:53.3490 Info Adding target FileTarget(Name=allfile)
+2019-09-26 14:50:53.3490 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 14:50:53.4029 Info Found 48 configuration items
+2019-09-26 15:02:12.2411 Info Message Template Auto Format enabled
+2019-09-26 15:02:12.2584 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 15:02:12.3990 Info Adding target FileTarget(Name=allfile)
+2019-09-26 15:02:12.3990 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 15:02:12.4602 Info Found 48 configuration items
+2019-09-26 15:12:34.6314 Info Message Template Auto Format enabled
+2019-09-26 15:12:34.6459 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 15:12:34.8374 Info Adding target FileTarget(Name=allfile)
+2019-09-26 15:12:34.8374 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 15:12:34.8996 Info Found 48 configuration items
+2019-09-26 15:28:56.6210 Info Message Template Auto Format enabled
+2019-09-26 15:28:56.6210 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 15:28:56.8327 Info Adding target FileTarget(Name=allfile)
+2019-09-26 15:28:56.8327 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 15:28:56.8815 Info Found 48 configuration items
+2019-09-26 15:30:10.2210 Info Message Template Auto Format enabled
+2019-09-26 15:30:10.2282 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 15:30:10.4739 Info Adding target FileTarget(Name=allfile)
+2019-09-26 15:30:10.4773 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 15:30:10.5416 Info Found 48 configuration items
+2019-09-26 15:34:31.1671 Info Message Template Auto Format enabled
+2019-09-26 15:34:31.1671 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 15:34:31.3721 Info Adding target FileTarget(Name=allfile)
+2019-09-26 15:34:31.3721 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 15:34:31.4213 Info Found 48 configuration items
+2019-09-26 15:43:03.5407 Info Message Template Auto Format enabled
+2019-09-26 15:43:03.5407 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 15:43:03.8738 Info Adding target FileTarget(Name=allfile)
+2019-09-26 15:43:03.8738 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 15:43:03.9687 Info Found 48 configuration items
+2019-09-26 15:46:00.9075 Info Message Template Auto Format enabled
+2019-09-26 15:46:00.9307 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 15:46:01.2225 Info Adding target FileTarget(Name=allfile)
+2019-09-26 15:46:01.2225 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 15:46:01.2855 Info Found 48 configuration items
+2019-09-26 15:47:30.1635 Info Message Template Auto Format enabled
+2019-09-26 15:47:30.1710 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 15:47:30.4155 Info Adding target FileTarget(Name=allfile)
+2019-09-26 15:47:30.4155 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 15:47:30.4882 Info Found 48 configuration items
+2019-09-26 19:20:32.7645 Info Message Template Auto Format enabled
+2019-09-26 19:20:32.7817 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 19:20:32.9674 Info Adding target FileTarget(Name=allfile)
+2019-09-26 19:20:32.9674 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 19:20:33.0437 Info Found 48 configuration items
+2019-09-26 19:24:43.7683 Info Message Template Auto Format enabled
+2019-09-26 19:24:43.7784 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 19:24:43.9942 Info Adding target FileTarget(Name=allfile)
+2019-09-26 19:24:43.9942 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 19:24:44.0535 Info Found 48 configuration items
+2019-09-26 19:40:34.7394 Info Message Template Auto Format enabled
+2019-09-26 19:40:34.7481 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 19:40:34.9176 Info Adding target FileTarget(Name=allfile)
+2019-09-26 19:40:34.9176 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 19:40:34.9672 Info Found 48 configuration items
+2019-09-26 19:50:34.7627 Info Message Template Auto Format enabled
+2019-09-26 19:50:34.7627 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 19:50:35.1010 Info Adding target FileTarget(Name=allfile)
+2019-09-26 19:50:35.1043 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 19:50:35.1775 Info Found 48 configuration items
+2019-09-26 19:52:49.9201 Info Message Template Auto Format enabled
+2019-09-26 19:52:49.9478 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 19:52:50.1442 Info Adding target FileTarget(Name=allfile)
+2019-09-26 19:52:50.1511 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 19:52:50.2302 Info Found 48 configuration items
+2019-09-26 19:59:03.3847 Info Message Template Auto Format enabled
+2019-09-26 19:59:03.4031 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 19:59:03.5519 Info Adding target FileTarget(Name=allfile)
+2019-09-26 19:59:03.5576 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 19:59:03.6084 Info Found 48 configuration items
+2019-09-26 20:00:47.9298 Info Message Template Auto Format enabled
+2019-09-26 20:00:47.9375 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 20:00:48.1320 Info Adding target FileTarget(Name=allfile)
+2019-09-26 20:00:48.1339 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 20:00:48.1792 Info Found 48 configuration items
+2019-09-26 20:02:54.7046 Info Message Template Auto Format enabled
+2019-09-26 20:02:54.7046 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-26 20:02:55.0959 Info Adding target FileTarget(Name=allfile)
+2019-09-26 20:02:55.0959 Info Adding target FileTarget(Name=microsoft)
+2019-09-26 20:02:55.1489 Info Found 48 configuration items
+2019-09-27 09:59:40.1094 Info Message Template Auto Format enabled
+2019-09-27 09:59:40.1094 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-27 09:59:40.3404 Info Adding target FileTarget(Name=allfile)
+2019-09-27 09:59:40.3422 Info Adding target FileTarget(Name=microsoft)
+2019-09-27 09:59:40.3906 Info Found 48 configuration items
+2019-09-27 10:20:03.9118 Info Message Template Auto Format enabled
+2019-09-27 10:20:03.9218 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-27 10:20:04.0615 Info Adding target FileTarget(Name=allfile)
+2019-09-27 10:20:04.0615 Info Adding target FileTarget(Name=microsoft)
+2019-09-27 10:20:04.1320 Info Found 48 configuration items
+2019-09-27 10:22:12.6109 Info Message Template Auto Format enabled
+2019-09-27 10:22:12.6109 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-27 10:22:12.7869 Info Adding target FileTarget(Name=allfile)
+2019-09-27 10:22:12.7869 Info Adding target FileTarget(Name=microsoft)
+2019-09-27 10:22:12.8402 Info Found 48 configuration items
+2019-09-27 10:24:39.3312 Info Message Template Auto Format enabled
+2019-09-27 10:24:39.3312 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-27 10:24:39.6227 Info Adding target FileTarget(Name=allfile)
+2019-09-27 10:24:39.6245 Info Adding target FileTarget(Name=microsoft)
+2019-09-27 10:24:39.7007 Info Found 48 configuration items
+2019-09-27 10:34:37.6761 Info Message Template Auto Format enabled
+2019-09-27 10:34:37.6761 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-27 10:34:37.9471 Info Adding target FileTarget(Name=allfile)
+2019-09-27 10:34:37.9563 Info Adding target FileTarget(Name=microsoft)
+2019-09-27 10:34:38.0305 Info Found 48 configuration items
+2019-09-27 11:00:29.2626 Info Message Template Auto Format enabled
+2019-09-27 11:00:29.2686 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-27 11:00:29.3478 Info Adding target FileTarget(Name=allfile)
+2019-09-27 11:00:29.3478 Info Adding target FileTarget(Name=microsoft)
+2019-09-27 11:00:29.3903 Info Found 48 configuration items
+2019-09-29 14:49:47.3480 Info Message Template Auto Format enabled
+2019-09-29 14:49:47.3551 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-29 14:49:47.6250 Info Adding target FileTarget(Name=allfile)
+2019-09-29 14:49:47.6250 Info Adding target FileTarget(Name=microsoft)
+2019-09-29 14:49:47.6722 Info Found 48 configuration items
